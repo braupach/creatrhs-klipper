@@ -78,9 +78,10 @@ Also see [leapfrog](https://support.lpfrg.com/support/solutions/articles/1100001
 - Plug in the USB-A side of your USB cable to connect to your motherboard
 - (optional) plug the *front-usb-cable* into your *pi*
 - (optional) plug in a *usb webcam* (see [# Webcam](## (optional) Webcam) )
+  - ![raspi](images/1000014494.jpg)
 - Screw in your *mainboard*
 - plug everything back into your *mainboard*
-  - ![raspi](images/1000014494.jpg)
+  - ![mainboard](images/1000014505.jpg)
 - mount the *back-panel*
 - do a test (see also ##Testing if you didn't do it beforehand)
 - mount all the other panels
