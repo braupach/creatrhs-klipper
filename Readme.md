@@ -57,7 +57,7 @@ Also see [leapfrog](https://support.lpfrg.com/support/solutions/articles/1100001
 
 ### Mount the Raspberry Pi Power supply
 
-- I used a Traco [*TMDC 10-2411*](https://www.buerklin.com/en/p/traco-power/dc-dc-converters/tmdc-10-2411/32C4535/) [(archive)](https://web.archive.org/web/20240922180005/https://www.buerklin.com/en/p/traco-power/dc-dc-converters/tmdc-10-2411/32C4535/) DC-DC one. You can use whatever you want.
+- I used a Traco [*TMDC 10-2411*](https://www.buerklin.com/en/p/traco-power/dc-dc-converters/tmdc-10-2411/32C4535/) [(archive)](https://web.archive.org/web/20240922180005/https://www.buerklin.com/en/p/traco-power/dc-dc-converters/tmdc-10-2411/32C4535/) DC-DC one.
 - Mount the *PSU* between the *Pi* and the *PSUs*
   - Glue it down **or**
   - Screw it down
